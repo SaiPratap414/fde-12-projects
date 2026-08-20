@@ -1,0 +1,14 @@
+{
+  "name": "fde-12-projects",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Control repo that publishes one FDE project per day to its own GitHub repo.",
+  "scripts": {
+    "publish:next": "node scripts/publish-next.mjs",
+    "publish:dry": "node scripts/publish-next.mjs --dry-run"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

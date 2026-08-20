@@ -1,0 +1,89 @@
+{
+  "owner": "saipratap414",
+  "projects": [
+    {
+      "title": "Multi-Tenant SaaS Platform",
+      "folder": "01-multi-tenant-saas",
+      "repo": "fde-multi-tenant-saas",
+      "stack": "Node/TS",
+      "description": "Row-level security, tenant isolation, per-tenant analytics, usage-based billing."
+    },
+    {
+      "title": "Enterprise SSO Integration",
+      "folder": "02-enterprise-sso",
+      "repo": "fde-enterprise-sso",
+      "stack": "Node/TS",
+      "description": "OAuth2, SAML, SCIM provisioning, role-based access control across tenants."
+    },
+    {
+      "title": "Customer Connector Pack",
+      "folder": "03-connector-pack",
+      "repo": "fde-connector-pack",
+      "stack": "Node/TS",
+      "description": "Pre-built integrations for Salesforce, Slack, HubSpot, Google Workspace with error recovery."
+    },
+    {
+      "title": "Secure Customer RAG System",
+      "folder": "04-secure-rag",
+      "repo": "fde-secure-rag",
+      "stack": "Python",
+      "description": "Document ingestion with permission filtering, citation tracking, audit logs."
+    },
+    {
+      "title": "Customer Health Dashboard",
+      "folder": "05-health-dashboard",
+      "repo": "fde-health-dashboard",
+      "stack": "Node/TS",
+      "description": "Real-time usage metrics, adoption tracking, SLA monitoring, alerting on breaches."
+    },
+    {
+      "title": "Webhook Integration Engine",
+      "folder": "06-webhook-engine",
+      "repo": "fde-webhook-engine",
+      "stack": "Node/TS",
+      "description": "Signature verification, retry logic with backoff, dead-letter queues, idempotency."
+    },
+    {
+      "title": "One-Click Customer Deployment",
+      "folder": "07-one-click-deploy",
+      "repo": "fde-one-click-deploy",
+      "stack": "Bash/IaC",
+      "description": "Automated provisioning scripts, environment configs, rollback mechanisms."
+    },
+    {
+      "title": "PII Redaction Middleware",
+      "folder": "08-pii-redaction",
+      "repo": "fde-pii-redaction",
+      "stack": "Python",
+      "description": "Detect and mask sensitive data before processing, compliance logging (SOC 2, GDPR)."
+    },
+    {
+      "title": "Incident Response System",
+      "folder": "09-incident-response",
+      "repo": "fde-incident-response",
+      "stack": "Node/TS",
+      "description": "Structured logging, distributed tracing, post-mortem templates, customer comms playbooks."
+    },
+    {
+      "title": "Usage Metering and Billing",
+      "folder": "10-usage-billing",
+      "repo": "fde-usage-billing",
+      "stack": "Node/TS",
+      "description": "Track API calls per tenant, meter features, integrate Stripe usage-based billing."
+    },
+    {
+      "title": "Customer Onboarding Automation",
+      "folder": "11-onboarding-automation",
+      "repo": "fde-onboarding-automation",
+      "stack": "Node/TS",
+      "description": "Self-serve setup flows, guided checklists, in-app docs, time-to-first-value tracking."
+    },
+    {
+      "title": "Public Deployment Case Study",
+      "folder": "12-deployment-case-study",
+      "repo": "fde-deployment-case-study",
+      "stack": "Docs",
+      "description": "Full runbook: architecture, integrations, failures, lessons, metrics."
+    }
+  ]
+}
