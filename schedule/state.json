@@ -1,4 +1,10 @@
 {
-  "nextIndex": 0,
-  "published": []
+  "nextIndex": 1,
+  "published": [
+    {
+      "repo": "fde-multi-tenant-saas",
+      "title": "Multi-Tenant SaaS Platform",
+      "at": "2026-08-20T15:53:53.283Z"
+    }
+  ]
 }
