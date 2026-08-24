@@ -1,5 +1,5 @@
 {
-  "nextIndex": 4,
+  "nextIndex": 5,
   "published": [
     {
       "repo": "fde-multi-tenant-saas",
@@ -20,6 +20,11 @@
       "repo": "fde-secure-rag",
       "title": "Secure Customer RAG System",
       "at": "2026-08-23T03:46:01.818Z"
+    },
+    {
+      "repo": "fde-health-dashboard",
+      "title": "Customer Health Dashboard",
+      "at": "2026-08-24T03:51:00.059Z"
     }
   ]
 }
