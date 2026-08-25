@@ -1,5 +1,5 @@
 {
-  "nextIndex": 5,
+  "nextIndex": 6,
   "published": [
     {
       "repo": "fde-multi-tenant-saas",
@@ -25,6 +25,11 @@
       "repo": "fde-health-dashboard",
       "title": "Customer Health Dashboard",
       "at": "2026-08-24T03:51:00.059Z"
+    },
+    {
+      "repo": "fde-webhook-engine",
+      "title": "Webhook Integration Engine",
+      "at": "2026-08-25T03:44:03.655Z"
     }
   ]
 }
