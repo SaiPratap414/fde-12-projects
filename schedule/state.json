@@ -1,5 +1,5 @@
 {
-  "nextIndex": 6,
+  "nextIndex": 7,
   "published": [
     {
       "repo": "fde-multi-tenant-saas",
@@ -30,6 +30,11 @@
       "repo": "fde-webhook-engine",
       "title": "Webhook Integration Engine",
       "at": "2026-08-25T03:44:03.655Z"
+    },
+    {
+      "repo": "fde-one-click-deploy",
+      "title": "One-Click Customer Deployment",
+      "at": "2026-08-26T03:50:07.175Z"
     }
   ]
 }
