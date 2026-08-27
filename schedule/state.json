@@ -1,5 +1,5 @@
 {
-  "nextIndex": 7,
+  "nextIndex": 8,
   "published": [
     {
       "repo": "fde-multi-tenant-saas",
@@ -35,6 +35,11 @@
       "repo": "fde-one-click-deploy",
       "title": "One-Click Customer Deployment",
       "at": "2026-08-26T03:50:07.175Z"
+    },
+    {
+      "repo": "fde-pii-redaction",
+      "title": "PII Redaction Middleware",
+      "at": "2026-08-27T13:40:26.568Z"
     }
   ]
 }
