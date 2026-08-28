@@ -1,5 +1,5 @@
 {
-  "nextIndex": 8,
+  "nextIndex": 9,
   "published": [
     {
       "repo": "fde-multi-tenant-saas",
@@ -40,6 +40,11 @@
       "repo": "fde-pii-redaction",
       "title": "PII Redaction Middleware",
       "at": "2026-08-27T13:40:26.568Z"
+    },
+    {
+      "repo": "fde-incident-response",
+      "title": "Incident Response System",
+      "at": "2026-08-28T14:50:19.048Z"
     }
   ]
 }
