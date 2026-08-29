@@ -1,5 +1,5 @@
 {
-  "nextIndex": 9,
+  "nextIndex": 10,
   "published": [
     {
       "repo": "fde-multi-tenant-saas",
@@ -45,6 +45,11 @@
       "repo": "fde-incident-response",
       "title": "Incident Response System",
       "at": "2026-08-28T14:50:19.048Z"
+    },
+    {
+      "repo": "fde-usage-billing",
+      "title": "Usage Metering and Billing",
+      "at": "2026-08-29T09:40:35.382Z"
     }
   ]
 }
