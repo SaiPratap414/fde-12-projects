@@ -1,5 +1,5 @@
 {
-  "nextIndex": 10,
+  "nextIndex": 11,
   "published": [
     {
       "repo": "fde-multi-tenant-saas",
@@ -50,6 +50,11 @@
       "repo": "fde-usage-billing",
       "title": "Usage Metering and Billing",
       "at": "2026-08-29T09:40:35.382Z"
+    },
+    {
+      "repo": "fde-onboarding-automation",
+      "title": "Customer Onboarding Automation",
+      "at": "2026-08-30T08:52:09.603Z"
     }
   ]
 }
