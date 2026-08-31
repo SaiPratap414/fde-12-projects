@@ -1,5 +1,5 @@
 {
-  "nextIndex": 11,
+  "nextIndex": 12,
   "published": [
     {
       "repo": "fde-multi-tenant-saas",
@@ -55,6 +55,11 @@
       "repo": "fde-onboarding-automation",
       "title": "Customer Onboarding Automation",
       "at": "2026-08-30T08:52:09.603Z"
+    },
+    {
+      "repo": "fde-deployment-case-study",
+      "title": "Public Deployment Case Study",
+      "at": "2026-08-31T09:15:53.937Z"
     }
   ]
 }
